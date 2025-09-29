@@ -15,4 +15,4 @@
 
 📬 How to reach me:
 - Email: gauravmore4613@gmail.com 
-- LinkedIn: [gaurav-more-a29286224]
+- LinkedIn:www.linkedin.com/in/gaurav-more-a29286224
