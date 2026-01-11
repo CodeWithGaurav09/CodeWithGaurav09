@@ -1,25 +1,23 @@
-# Hi, I'm Gaurav! 👋
+Hi, I'm Gaurav 👋  
+📊 Aspiring Power BI Developer | Data Analyst | AI & Data Science Engineer
 
-🚀 Engineering student passionate about coding, learning, and building meaningful tech projects.
+I am an engineering student specializing in Artificial Intelligence and Data Science, with a strong interest in Business Intelligence and data-driven decision making. I work on transforming raw data into meaningful insights using Power BI, Excel, and Python.
 
-An aspiring **data analyst** and **full-stack developer** with a strong curiosity for technology, programming, and problem-solving. I enjoy exploring new tools, frameworks, and concepts to turn ideas into real-world projects.  
+I focus on building interactive Power BI dashboards, KPI reports, and analytical solutions that help answer real business questions. I enjoy working with data cleaning, modeling, and visualization to create clear and impactful reports.
 
-📚 Always learning — from software development to creative design.  
-💡 I love exploring new technologies, solving real-world problems, and collaborating with others on exciting projects.
+Currently, I am:
+• Building Power BI dashboards using real-world sales and business datasets  
+• Practicing data analysis with Excel, Pandas, and NumPy  
+• Learning DAX fundamentals and data modeling concepts  
+• Sharing my analytics learning journey and dashboards on LinkedIn  
 
-### Currently, I am:
-- Learning **Python, Django, and AIML**, building hands-on projects.  
-- Working on web development projects like a **Swiggy-like clone** and a **QR code generator** for hotel menus.  
-- Passionate about **data analysis**, honing my skills with Pandas, NumPy, and visualization libraries.  
+🔧 Tools & Technologies:
+• Power BI (Desktop & Service)  
+• Microsoft Excel (Power Query, Pivot Tables)  
+• Python (Pandas, NumPy – basics)  
+• SQL (Learning)  
 
-**Fun Fact:** I enjoy reading, keeping up with tech trends, and following a structured approach to learning every day.
-
-### 🔧 Tools & Tech I Use:
-- **Languages:** C/C++, Python, HTML/CSS, JavaScript  
-- **Frameworks/Tools:** Django, Git, GitHub, VS Code  
-- **Interests:** UI/UX, Automation, Open Source
-
-### 📬 How to reach me:
+# 📬 How to reach me:
 - **Email:** [gauravmore4613@gmail.com](mailto:gauravmore4613@gmail.com)  
 - **LinkedIn:** [Gaurav More](https://www.linkedin.com/in/gaurav-more-a29286224)  
 - **GitHub:** [CodeWithGaurav09](https://github.com/CodeWithGaurav09)
